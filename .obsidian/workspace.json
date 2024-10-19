@@ -160,7 +160,8 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c4fafc62aabb7bc6",
@@ -168,6 +169,7 @@
     "软件资源/git.md",
     "软件资源/test.md",
     "软件资源/编程软件.md",
+    "软件资源/test.md",
     "软件资源/其他应用软件.md",
     "软件资源/单片机.md",
     "软件资源/软件资源库.md",
@@ -192,7 +194,6 @@
     "电子综合作业/74LS32（二四或门）.md",
     "电子综合作业/74LS08（二四与门）.md",
     "电子综合作业/74LS04（二六非门）.md",
-    "电子综合作业/74LS00（二四与非门）.md",
     "电子综合作业.rar",
     "电子综合作业/表图.canvas",
     "智能救援比赛",
