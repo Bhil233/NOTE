@@ -144,6 +144,16 @@
               "icon": "lucide-list",
               "title": "git 的大纲"
             }
+          },
+          {
+            "id": "d35a350f9afebda3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 2
