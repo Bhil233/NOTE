@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "3edb5a2540c4280b",
+    "type": "split",
+    "children": [
+      {
+        "id": "91d22a3d457d4fbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4fafc62aabb7bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计划表/计划表——2024.10.7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d60edaf1708ba8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c9d069a5c261dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c252f64ddeb23841",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a80f6fef78078eef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6674c21677e3219e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "af552dc62d1fd753",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e70a229df70141e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d645b1129cbb63ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计划表/计划表——2024.10.7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4158470e643d68a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计划表/计划表——2024.10.7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e501efca64fafe20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "b652a62b923702ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计划表/计划表——2024.10.7.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c252f64ddeb23841",
+  "lastOpenFiles": [
+    "逆向设计课程报告.md",
+    "计划表/计划表——2024.10.7.md",
+    "未命名",
+    "计划表/达辛德.md",
+    "智能救援比赛/未命名.canvas",
+    "智能救援比赛/未命名.md",
+    "电子综合作业/proteus常用元件中英对照表.md",
+    "电子综合作业/LM339（电压比较器）.md",
+    "电子综合作业/物料表.md",
+    "电子综合作业/CD4012（四二与非门）.md",
+    "电子综合作业/逻辑芯片.md",
+    "电子综合作业/计划流程.md",
+    "电子综合作业/74LS161（计数芯片）.md",
+    "电子综合作业/74系列芯片简介.md",
+    "电子综合作业/74LS48（数码管驱动芯片）.md",
+    "电子综合作业/74LS32（二四或门）.md",
+    "电子综合作业/74LS08（二四与门）.md",
+    "电子综合作业/74LS04（二六非门）.md",
+    "电子综合作业/74LS00（二四与非门）.md",
+    "电子综合作业.rar",
+    "电子综合作业/表图.canvas",
+    "计划表/freertos.md",
+    "智能救援比赛",
+    "电子综合作业/attachments/Pasted image 20241012235130.png",
+    "电子综合作业/attachments/Pasted image 20241012234941.png",
+    "电子综合作业/attachments/Pasted image 20241012222703.png",
+    "电子综合作业/attachments/Pasted image 20241012222514.png",
+    "未命名 1.md",
+    "电子综合作业/attachments/Pasted image 20241011144943.png",
+    "电子综合作业/attachments/Pasted image 20241011142440.png",
+    "电子综合作业/attachments/Pasted image 20241011142413.png",
+    "电子综合作业/attachments/Pasted image 20241011141930.png",
+    "软件资源/软件资源库.md",
+    "软件资源/小组件.md",
+    "软件资源/游戏.md",
+    "软件资源/其他应用软件.md",
+    "软件资源/单片机.md",
+    "软件资源/编程软件.md",
+    "电子综合作业/attachments/Pasted image 20241011140108.png",
+    "电子综合作业/attachments/Pasted image 20241011140041.png",
+    "电子综合作业/attachments",
+    "电子综合作业",
+    "学校大作业/attachments",
+    "学校大作业",
+    "未命名.canvas",
+    "计划表",
+    "软件资源",
+    "未命名 1.canvas"
+  ]
+}
