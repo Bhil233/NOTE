@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件资源/git.md",
+                "file": "智能救援比赛/计划表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "git 的出链列表"
+              "title": "计划表 的出链列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件资源/git.md"
+                "file": "智能救援比赛/计划表.md"
               },
               "icon": "lucide-list",
-              "title": "git 的大纲"
+              "title": "计划表 的大纲"
             }
           },
           {
@@ -154,14 +154,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d4b035f5b919123c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +185,10 @@
   },
   "active": "c4fafc62aabb7bc6",
   "lastOpenFiles": [
-    "软件资源/git.md",
+    "2024-10-23.md",
     "智能救援比赛/计划表.md",
+    "2024-10-19.md",
+    "软件资源/git.md",
     "软件资源/test.md",
     "软件资源/编程软件.md",
     "软件资源/其他应用软件.md",
@@ -202,7 +213,6 @@
     "电子综合作业/74LS48（数码管驱动芯片）.md",
     "电子综合作业/74LS32（二四或门）.md",
     "电子综合作业/74LS08（二四与门）.md",
-    "电子综合作业/74LS04（二六非门）.md",
     "电子综合作业.rar",
     "电子综合作业/表图.canvas",
     "智能救援比赛",
