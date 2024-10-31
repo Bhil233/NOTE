@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子综合作业/555定时器芯片.md",
+                "file": "电子综合作业/74LS08（二四与门）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "555定时器芯片"
+              "title": "74LS08（二四与门）"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "c4fafc62aabb7bc6",
   "lastOpenFiles": [
-    "电子综合作业/CD4072（四二或门）.md",
-    "电子综合作业/555定时器芯片.md",
-    "电子综合作业/LM339（电压比较器）.md",
     "电子综合作业/CD4081（四二与门）.md",
+    "电子综合作业/555定时器芯片.md",
+    "电子综合作业/CD4072（四二或门）.md",
+    "电子综合作业/LM339（电压比较器）.md",
     "电子综合作业/74LS161（计数芯片）.md",
     "电子综合作业/attachments/Pasted image 20241031233443.png",
     "电子综合作业/attachments/Pasted image 20241031233424.png",
