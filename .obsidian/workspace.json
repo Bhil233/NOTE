@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子综合作业/CD4081（四二与门）.md",
+                "file": "电子综合作业/CD4072（四二或门）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CD4081（四二与门）"
+              "title": "CD4072（四二或门）"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "c4fafc62aabb7bc6",
   "lastOpenFiles": [
-    "电子综合作业/attachments/Pasted image 20241031233443.png",
-    "电子综合作业/CD4072（四二或门）.md",
     "电子综合作业/CD4081（四二与门）.md",
+    "电子综合作业/CD4072（四二或门）.md",
+    "电子综合作业/attachments/Pasted image 20241031233443.png",
     "电子综合作业/attachments/Pasted image 20241031233424.png",
     "电子综合作业/74系列芯片简介.md",
     "电子综合作业/74HC573（待补完）.md",
@@ -227,7 +227,6 @@
     "智能救援比赛",
     "电子综合作业/attachments/Pasted image 20241012235130.png",
     "电子综合作业/attachments/Pasted image 20241012234941.png",
-    "电子综合作业/attachments/Pasted image 20241012222703.png",
     "电子综合作业/attachments",
     "电子综合作业",
     "学校大作业/attachments",
