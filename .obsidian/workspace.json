@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子综合作业/LOGO.md",
+                "file": "电子综合作业/555定时器芯片.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LOGO"
+              "title": "555定时器芯片"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "c4fafc62aabb7bc6",
   "lastOpenFiles": [
+    "电子综合作业/LOGO.md",
     "电子综合作业/74系列芯片简介.md",
     "电子综合作业/CD4082（四二与门）.md",
-    "电子综合作业/LOGO.md",
     "未命名",
     "电子综合作业/CD4072（四二或门）.md",
     "电子综合作业/74LS04（一六非门）.md",
