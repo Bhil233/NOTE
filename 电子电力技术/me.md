@@ -307,6 +307,17 @@ $$
 I_n = \frac{2\sqrt2I_d}{n\pi}\quad n=1,3,5\dots
 $$
 $$
-\lambda = \upsilon
+\lambda = \upsilon\lambda_1=\frac{I_1}{I}\cos\varphi=\frac{2\sqrt2}{\pi}\cos\alpha\approx0.9\cos\alpha
 $$
 ### 三相桥式全控整流电路
+$$I=\sqrt{\frac{2}{3}}I_d$$
+电流基波$I_1$和各次谐波有效值$I_n$分别为
+$$
+\begin{cases}
+I_1 = \frac{\sqrt6}{\pi}I_d\\
+I_n = \frac{\sqrt6}{n\pi}I_d\\
+\end{cases} 
+$$
+$$n = 6k\pm1,\quad k =1,2,3,\dots$$
+电流中仅含6k+
+
