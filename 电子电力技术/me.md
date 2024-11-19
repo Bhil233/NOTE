@@ -119,4 +119,14 @@ $$\frac{U_d}{R}$$
 
 ##### 电阻负载
 一次侧为三角形接法，二次侧为星形接法，避免三次谐波流入电网。
-电阻负载时触发角$\alpha$的yi'xiang'a'l
+电阻负载时触发角α的移相范围为0°~150°，当α等于150°时，整流输出电压为0。
+当α≤30°时，负载电流连续，有
+$$
+U_d = \frac{1}{\frac{2\pi}{3}}\int_{\frac{\pi}{6}+\alpha}^{\frac{5\pi}{6}+\alpha}\sqrt{2}U_2sin\omega td(\omega t) = \frac{3\sqrt{6}}{2\pi}U_2cos\alpha = 1.17cos\alpha
+$$
+
+
+
+$$
+U_d = \frac{1}{\frac{2\pi}{3}}\int_{\frac{\pi}{6}}^\pi\sqrt{2}U_2sin\omega td(\omega t) = \frac{3\sqrt{2}}{2\pi}U_2[1+cos(\frac{\pi}{6}+\alpha)] = 0.675[1+cos(\frac{\pi}{6}+\alpha)]
+$$
