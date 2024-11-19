@@ -302,4 +302,11 @@ $$
 I_{有}= \frac{\sqrt{2}}{\sqrt{3}}I_M 
 $$
 ### 单相桥式全控整流电路
+基波与各次谐波的有效值为：
+$$
+I_n = \frac{2\sqrt2I_d}{n\pi}\quad n=1,3,5\dots
+$$
+$$
+\lambda = \upsilon
+$$
 ### 三相桥式全控整流电路
