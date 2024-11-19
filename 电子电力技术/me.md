@@ -65,4 +65,13 @@ $$
 $$
 {\Huge sin(\alpha-\varphi)e^{-\frac{\theta}{tan\varphi}} = sin(\theta+\alpha-\varphi) }
 $$
-test$\alpha$s
+$\theta$ 导通角 $\theta = \pi-\alpha$
+2、单相桥式全控整流电路（电阻性、阻感性负载）输出电压（电流）波形、表达式、触发角移相范围；晶闸管电流平均值、有效值、晶闸管承受最大正反向电压（主要计算阻感性负载情况）；
+
+电阻性负载
+$$
+U_d = \frac{1}{\pi}\int_\alpha^\pi\sqrt{2}U_2sin\omega td(\omega t) = \frac{2\sqrt{2}}{\pi}\frac{1+cos\alpha}{2} = 0.9\frac{U_2}{R}\frac{1+cos\alpha}{2}
+$$
+$$
+I_d = \frac{U_d}{R}=\frac{2\sq}
+$$
