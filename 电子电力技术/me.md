@@ -160,6 +160,10 @@ $$
 $$
 U_{RM} = \sqrt{2}*\sqrt{3} = \sqrt{6}U_2 = 2.45U_2
 $$
+晶闸管阳极与阴极间的最大带你呀等于变压器二次侧相电压的峰值，即
+$$
+U_{FM} = \sq
+$$
 三相半波可控整流电路的主要缺点在于其变压器二次电流中含有直流分量，因此应用较少。
 
 
@@ -169,5 +173,16 @@ $$
 ##### 电阻负载
 触发角α≤60°时，负载电压平均值为
 $$
-{\Huge U_d = \frac{1}{\frac{\pi}{3}}\int_{\frac{\pi}{3}+\alpha}^\pi \sqrt{6]U_2sin\omega td(\omega t)} }
+{\huge U_d = \frac{1}{\frac{\pi}{3}}\int_{\frac{\pi}{3}+\alpha}^\pi \sqrt{6}U_2sin\omega td(\omega t) = 2.34U_2cos\alpha }
 $$
+α＞60°时，整流平均电压为
+$$
+{\huge U_d = \frac{3}{\pi}\int_{\frac{\pi}{3}}^\pi \sqrt{6}U_2sin\omega td(\omega t) = 2.34U_2[1+cos(\frac{\pi}{3}+\alpha)] }
+$$
+输出电流平均值为$I_d = U_d/R$
+输出电流有效值为
+$$
+I_2 = \sqrt{\frac{1}{2\pi}(I_d^2*\frac{2}{3}\pi+(-I_d)^2*\frac{2}{3}\pi)} = \sqrt{\frac{2}{3}}I_d = 0.816I_d
+$$
+晶闸管电压、电流等与三相半波完全一致
+
