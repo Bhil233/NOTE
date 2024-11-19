@@ -98,4 +98,7 @@ $$
 U_d = \frac{1}{\pi}\int_\alpha^{\pi + \alpha}\sqrt{2}U_2sin\omega td(\omega t) = \frac{2\sqrt{2}}{\pi}{cos\alpha} = 0.9{U_2}{cos\alpha}
 $$
 晶闸管承受的最大反向电压均为$\sqrt 2 U_2$。
-导通角与$\alpha$无关，均为$180^ 。$平均值和有效值fen'bie'wei
+
+负载电流值为（近似于直流）
+$$\frac{U_d}{R}$$
+导通角与$\alpha$无关，均为$180^ 。$平均值和有效值分别为：$\large I_{dVT}=\frac{1}{2}I_d$和$\large I_{VT} = \frac{1}{\sqrt2}I_d = 0.707I_d$
