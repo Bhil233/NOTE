@@ -52,7 +52,7 @@ $$
 解决低参杂N区由于参杂浓度低而具有的高电阻率对于电力二极管的正向导通不利的矛盾。
 用于移植电磁辐射与电磁干扰。
 
-### 第三章
+## 第三章
 1、单相半波可控整流电路电阻性负载触发角移相范围，负载电压表达式；
 $$
  U_d = \frac{1}{2\pi} \int_\alpha^\pi{\sqrt{2}U_2sin\omega td(\omega t)} = \frac{\sqrt{2}U_2}{2\pi}(1+cos\alpha) = 0.45U_2\frac{1 + cos\alpha}{2}
@@ -61,17 +61,17 @@ $$
 $$
 0^。< \alpha <180^。
 $$
-阻感性负载
+##### 阻感性负载
 $$
 {\Huge sin(\alpha-\varphi)e^{-\frac{\theta}{tan\varphi}} = sin(\theta+\alpha-\varphi) }
 $$
 $\theta$ 导通角 $\theta = \pi-\alpha$
 2、单相桥式全控整流电路（电阻性、阻感性负载）输出电压（电流）波形、表达式、触发角移相范围；晶闸管电流平均值、有效值、晶闸管承受最大正反向电压（主要计算阻感性负载情况）；
 
-电阻性负载
+##### 电阻性负载
 整流平均电压为
 $$
-U_d = \frac{1}{\pi}\int_\alpha^\pi\sqrt{2}U_2sin\omega td(\omega t) = \frac{2\sqrt{2}}{\pi}\frac{1+cos\alpha}{2} = 0.9\frac{U_2}{R}\frac{1+cos\alpha}{2}
+U_d = \frac{1}{\pi}\int_\alpha^\pi\sqrt{2}U_2sin\omega td(\omega t) = \frac{2\sqrt{2}}{\pi}\frac{1+cos\alpha}{2} = 0.9{U_2}\frac{1+cos\alpha}{2}
 $$
 向负载输出的平均电流
 $$
@@ -86,3 +86,16 @@ $$
 I_{VT} = \sqrt{\frac{1}{2\pi}\int_\alpha^\pi(\frac{\sqrt{2}U_2}{R}sin\omega t)^2d(\omega t)} = \frac{U_2}{\sqrt{2}R}\sqrt{\frac{1}{2\pi}sin2\alpha +\frac{\pi - \alpha}{\pi}}
 $$
 变压器二次电流有效值$I_2$与输出直流电源有效值$I$相等，为
+$$
+I = I_2 = \sqrt{\frac{1}{\pi}\int_\alpha^\pi(\frac{\sqrt{2}U_2}{R}sin\omega t)^2d(\omega t)} = \frac{U_2}{R}\sqrt{\frac{1}{2\pi}sin2\alpha +\frac{\pi - \alpha}{\pi}}
+$$
+于是有$$I_{VT} = \frac{1}{\sqrt2}I$$ 不考虑损耗时，要求变压器容量为$S = U_2I_2$
+
+##### 阻感性负载
+
+负载电压平均值为
+$$
+U_d = \frac{1}{\pi}\int_\alpha^{\pi + \alpha}\sqrt{2}U_2sin\omega td(\omega t) = \frac{2\sqrt{2}}{\pi}{cos\alpha} = 0.9{U_2}{cos\alpha}
+$$
+晶闸管承受的最大反向电压均为$\sqrt 2 U_2$。
+导通角与$\alpha$无关，均为$180^ 。$平均值和有效值fen'bie'wei
