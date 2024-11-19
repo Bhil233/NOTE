@@ -234,23 +234,49 @@ $$
 
 对于周期为$T=2\pi/ \omega$的非正弦电压$u(\omega t)$，可分解为如下形式的傅里叶级数
 $$
-u(\omega t) = a_0+\displaystyle\sum_{n = 1}^\infty(a_ncosn\omega t+b_nsinn\omega t)
+u(\omega t) = a_0+\displaystyle\sum_{n = 1}^\infty(a_n\cos n\omega t+b_n\sin n\omega t)
 $$
 式中
 $$
 a_0 = \frac{1}{2\pi}\int_0^{2\pi}u(\omega t)d(\omega t) 
 $$
 $$
-a_n = \frac{1}{\pi}\int_0^{2\pi}u(\omega t)cosn\omega td(\omega t)
+a_n = \frac{1}{\pi}\int_0^{2\pi}u(\omega t)\cos n\omega td(\omega t)
 $$
 $$
-b_n=\frac{1}{\pi}\int_0^{2\pi}u(\omega t)sinn\omega td(\omega  t)
+b_n=\frac{1}{\pi}\int_0^{2\pi}u(\omega t)\sin n\omega td(\omega  t)
 $$
 $$
-n = 1, 2, 3, ...
+n = 1, 2, 3, \dots
 $$
 或
 $$
-u(\omega t) = a_0+\displaystyle\sum_{n = 1}^\infty c_nsin(n\omega t + \varphi_n)
+u(\omega t) = a_0+\displaystyle\sum_{n = 1}^\infty c_n\sin(n\omega t + \varphi_n)
 $$
-式中，$c_n,/varphi_n$
+式中，$c_n,\varphi_n$和$a_n,b_n$的关系为
+$$
+c_n=\sqrt{a_n^2+b_n^2}
+$$
+$$
+\varphi_n = \arctan(\frac{a_n}{b_n})
+$$
+$$
+a_n = c_n\sin\varphi
+$$
+$$
+b_n = c_n\cos\varphi
+$$
+将频率为基波整数倍的分量称为谐波
+n次谐波电流含有率以$HRI_n$表示
+$$
+HRI_n = \frac{I_n}{I_1}\times100\%
+$$
+式中，$I_n$为$n$次谐波电流有效值；$I_1$为基波电流有效值
+电流谐波总畸变率$THD_i$ 定义为
+$$
+THD_i=\frac{I_h}{I_1}\times100\%
+$$
+式中，$I_h$为总谐波电流有效值
+
+**功率因素**
+功率因素$\lambda$定义you'gong'gon'l
