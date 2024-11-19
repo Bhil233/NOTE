@@ -123,7 +123,7 @@ $$\frac{U_d}{R}$$
 
 当α≤30°时，负载电流连续，有
 $$
-U_d = \frac{1}{\frac{2\pi}{3}}\int_{\frac{\pi}{6}+\alpha}^{\frac{5\pi}{6}+\alpha}\sqrt{2}U_2sin\omega td(\omega t) = \frac{3\sqrt{6}}{2\pi}U_2cos\alpha = 1.17cos\alpha
+U_d = \frac{1}{\frac{2\pi}{3}}\int_{\frac{\pi}{6}+\alpha}^{\frac{5\pi}{6}+\alpha}\sqrt{2}U_2sin\omega td(\omega t) = \frac{3\sqrt{6}}{2\pi}U_2cos\alpha = 1.17U_2cos\alpha
 $$
 当α=0时，$U_d$最大，$U_d=U_{d0}=1.17U_2$
 
@@ -137,5 +137,15 @@ U_{RM} = \sqrt{2}*\sqrt{3} = \sqrt{6}U_2 = 2.45U_2
 $$
 晶闸管阳极与阴极间的最大电压等于变压器二次相电压的峰值，即
 $$
-U_{FM} = \sqrt
+U_{FM} = \sqrt{2}U_2
 $$
+##### 阻感负载
+阻感负载的移相范围为0°~90°。
+
+当α≤30°时，整流电压波形与电阻负载时相同，因为在这两种负载情况下，负载电流均连续。
+
+当α＞30°时
+$$
+U_d=1.17U_2cos\alpha
+$$
+变压器二次电流ji
