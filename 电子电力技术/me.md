@@ -69,9 +69,20 @@ $\theta$ 导通角 $\theta = \pi-\alpha$
 2、单相桥式全控整流电路（电阻性、阻感性负载）输出电压（电流）波形、表达式、触发角移相范围；晶闸管电流平均值、有效值、晶闸管承受最大正反向电压（主要计算阻感性负载情况）；
 
 电阻性负载
+整流平均电压为
 $$
 U_d = \frac{1}{\pi}\int_\alpha^\pi\sqrt{2}U_2sin\omega td(\omega t) = \frac{2\sqrt{2}}{\pi}\frac{1+cos\alpha}{2} = 0.9\frac{U_2}{R}\frac{1+cos\alpha}{2}
 $$
+向负载输出的平均电流
 $$
-I_d = \frac{U_d}{R}=\frac{2\sq}
+I_d = \frac{U_d}{R}=\frac{2\sqrt{2}}{\pi R}\frac{1+cos\alpha}{2} = 0.9\frac{U_2}{R}\frac{1+cos\alpha}{2}
 $$
+流过晶闸管的平均电流只有负载平均电流的一半，既
+$$
+I_{dVT} = \frac{1}{2}I_d = 0.45\frac{U_2}{R}\frac{1+cos\alpha}{2}
+$$
+晶闸管电流有效值
+$$
+I_{VT} = \sqrt{\frac{1}{2\pi}\int_\alpha^\pi(\frac{\sqrt{2}U_2}{R}sin\omega t)^2d(\omega t)} = \frac{U_2}{\sqrt{2}R}\sqrt{\frac{1}{2\pi}sin2\alpha +\frac{\pi - \alpha}{\pi}}
+$$
+变压器二次电流有效值$I_2$与输出直流电源有效值$I$相等，为
