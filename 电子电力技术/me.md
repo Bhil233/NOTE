@@ -58,3 +58,11 @@ $$
  U_d = \frac{1}{2\pi} \int_\alpha^\pi{\sqrt{2}U_2sin\omega td(\omega t)} = \frac{\sqrt{2}U_2}{2\pi}(1+cos\alpha) = 0.45U_2\frac{1 + cos\alpha}{2}
 
  $$
+$$
+0^。< \alpha <180^。
+$$
+阻感性负载
+$$
+{\Huge sin(\alpha-\varphi)e^{-\frac{\theta}{tan\varphi}} = sin(\theta+\alpha-\varphi) }
+$$
+test$\alpha$s
