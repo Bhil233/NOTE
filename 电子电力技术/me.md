@@ -55,5 +55,6 @@ $$
 ### 第三章
 1、单相半波可控整流电路电阻性负载触发角移相范围，负载电压表达式；
 $$
- U_d = \frac{1}{2\pi} \int_\alpha
-$$
+ U_d = \frac{1}{2\pi} \int_\alpha^\pi{\sqrt{2}U_2sin\omega td(\omega t)} = \frac{\sqrt{2}U_2}{2\pi}(1+cos\alpha) = 0.45U_2\frac{1 + cos\alpha}{2}
+
+ $$
