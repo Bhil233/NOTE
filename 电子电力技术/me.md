@@ -101,7 +101,7 @@ $$
 晶闸管承受的最大反向电压均为$\sqrt 2 U_2$。
 
 负载电流值为（近似于直流）
-$$\frac{U_d}{R}$$
+$$I = \frac{U_d}{R}$$
 导通角与$\alpha$无关，均为$180^ 。$平均值和有效值分别为：$\large I_{dVT}=\frac{1}{2}I_d$和$\large I_{VT} = \frac{1}{\sqrt2}I_d = 0.707I_d$
 ### 单相全波可控整流电路
 区别：
@@ -279,4 +279,15 @@ $$
 式中，$I_h$为总谐波电流有效值
 
 **功率因素**
-功率因素$\lambda$定义you'gong'gon'l
+功率因素$\lambda$定义有功功率和视在功率的比值，即
+$$
+\lambda = \frac{P}{S}
+$$
+$$
+\lambda = \cos\varphi
+$$
+非正弦电路中的功率因素为
+$$
+\lambda=\frac{P}{S} = \upsilon\cos\varphi_i
+$$
+式中，$\upsilon$为基波电流有效值和总电流有效值之比，$\upsilon=I_1/I$，称为基波因数
