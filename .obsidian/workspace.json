@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子综合作业/个人总结.md",
+                "file": "电子电力技术/me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "个人总结"
+              "title": "me"
             }
           }
         ]
@@ -186,13 +186,17 @@
   },
   "active": "c4fafc62aabb7bc6",
   "lastOpenFiles": [
-    "电子综合作业/74系列芯片简介.md",
+    "电子电力技术/复习大纲.md",
+    "电子电力技术/me.md",
+    "电子电力技术/老师整理的复习内容.md",
+    "智能救援比赛/计划表.md",
+    "电子电力技术",
     "电子综合作业/个人总结.md",
+    "电子综合作业/74系列芯片简介.md",
     "电子综合作业/555定时器芯片.md",
     "电子综合作业/改进记录.md",
     "电子综合作业/焊接操作与注意事项.md",
     "电子综合作业/74LS161（计数芯片）.md",
-    "未命名",
     "电子综合作业/proteus常用元件中英对照表.md",
     "电子综合作业/LM339（电压比较器）.md",
     "电子综合作业/计划流程.md",
@@ -213,16 +217,12 @@
     "电子综合作业/attachments/Pasted image 20241031231146.png",
     "电子综合作业/74LS32（二四或门）.md",
     "未命名.canvas",
-    "智能救援比赛/计划表.md",
     "电子综合作业/attachments/Pasted image 20241023215039.png",
     "电子综合作业/attachments/Pasted image 20241023214901.png",
     "电子综合作业/attachments/Pasted image 20241023214653.png",
     "电子综合作业/attachments/Pasted image 20241023214221.png",
     "智能救援比赛/未命名.canvas",
     "2024-10-23.md",
-    "2024-10-19.md",
-    "软件资源/git.md",
-    "软件资源/test.md",
     "电子综合作业.rar",
     "电子综合作业/表图.canvas",
     "智能救援比赛",
