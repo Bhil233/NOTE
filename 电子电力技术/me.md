@@ -201,6 +201,9 @@ $$
 $$
 \Delta U_d = \frac{1}{\frac{2\pi}{3}}\int_{\frac{5\pi}{6}+\alpha}^{\frac{5\pi}{6}+\alpha+\gamma}(u_b-u_d)d(\omega t) = \frac{3}{2\pi}X_BI_d
 $$
+$$
+U_d = U_{d_0} - \Delta U_d
+$$
 式中$X_B$是漏感$L_B$的变压器每相折算到二次侧的漏抗，$X_B = \omega L_B$
 
 γ值计算
@@ -217,3 +220,5 @@ $$
 | -------------------------------- | ---------------------------- | ----------------------------- | ----------------------------- | ----------------------------- | -------------------------------------------- |
 | $\Delta U_d$                     | $\frac{X_B}{\pi}I_d$         | $\frac{2X_B}{\pi}I_d$         | $\frac{3X_B}{2\pi}I_d$        | $\frac{3X_B}{\pi}I_d$         | $\frac{mX_B}{2\pi}I_d$                       |
 | $cos\alpha - cos(\alpha+\gamma)$ | $\frac{I_dX_B}{\sqrt{2}U_2}$ | $\frac{2I_dX_B}{\sqrt{2}U_2}$ | $\frac{2I_dX_B}{\sqrt{6}U_2}$ | $\frac{2I_dX_B}{\sqrt{6}U_2}$ | $\frac{I_dX_B}{\sqrt{2}U_2sin\frac{\pi}{m}}$ |
+变压器漏感对整流电路的影响
+1）
