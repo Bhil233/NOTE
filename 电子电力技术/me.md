@@ -234,5 +234,23 @@ $$
 
 对于周期为$T=2\pi/ \omega$的非正弦电压$u(\omega t)$，可分解为如下形式的傅里叶级数
 $$
-u(\omega t) = a_0+
+u(\omega t) = a_0+\displaystyle\sum_{n = 1}^\infty(a_ncosn\omega t+b_nsinn\omega t)
 $$
+式中
+$$
+a_0 = \frac{1}{2\pi}\int_0^{2\pi}u(\omega t)d(\omega t) 
+$$
+$$
+a_n = \frac{1}{\pi}\int_0^{2\pi}u(\omega t)cosn\omega td(\omega t)
+$$
+$$
+b_n=\frac{1}{\pi}\int_0^{2\pi}u(\omega t)sinn\omega td(\omega  t)
+$$
+$$
+n = 1, 2, 3, ...
+$$
+或
+$$
+u(\omega t) = a_0+\displaystyle\sum_{n = 1}^\infty c_nsin(n\omega t + \varphi_n)
+$$
+式中，$c_n,/varphi_n$
