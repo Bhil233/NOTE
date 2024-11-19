@@ -347,4 +347,16 @@ $$
 $$
 \beta_{min}=\delta+\gamma+\theta^{'}
 $$
-式中，δ为晶闸管的关断shi'ji
+式中，δ为晶闸管的关断时间折合的电角度，γ为换相重叠角，θ‘为安全裕量角
+逆变器工作时有
+$$
+\alpha=\pi-\beta\quad \beta=\gamma
+$$
+于是有
+$$
+\cos\gamma=1-\frac{I_dX_B}{\sqrt{2}U_2\sin\frac{\pi}{m}}
+$$
+$\beta_{min}$的大致范围为30°~35°，设计电路时需要保证$\beta \geqq \beta_{min}$
+
+## 第四章
+### 逆变的分类
