@@ -66,6 +66,8 @@ $$
 L\frac{di_d}{dt}+Ri_d = \sqrt2U_2\sin\omega t
 $$
 VT导通时刻有$\omega t = \alpha$,$i_d = 0$此为上式的初始条件。
+
+当$\omega t = \theta + \alpha$时，$i_d  = 0$
 $$
 {\Huge sin(\alpha-\varphi)e^{-\frac{\theta}{tan\varphi}} = sin(\theta+\alpha-\varphi) }
 $$
