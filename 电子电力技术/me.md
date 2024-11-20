@@ -104,7 +104,7 @@ $$
 $$
 U_d = \frac{1}{\pi}\int_\alpha^{\pi + \alpha}\sqrt{2}U_2sin\omega td(\omega t) = \frac{2\sqrt{2}}{\pi}{cos\alpha} = 0.9{U_2}{cos\alpha}
 $$
-晶闸管承受的最大反向电压均为$\sqrt 2 U_2$。电压选择2-3倍，电流选择1.5-2倍
+晶闸管承受的最大反向电压均为$\sqrt 2 U_2$。电压选择2-3倍（电压*$\sqrt2$），电流选择1.5-2倍（电流\\$\sqrt2$）
 
 负载电流值为（近似于直流）
 $$I = \frac{U_d}{R}$$
