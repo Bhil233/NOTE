@@ -61,6 +61,11 @@ $$
 0^。< \alpha <180^。
 $$
 ##### 阻感性负载
+当VT处于导通状态时，如下方程成立
+$$
+L\frac{di_d}{dt}+Ri_d = \sqrt2U_2\sin\omega t
+$$
+VT导通时刻有$\omega t = \alpha$,$i_d = 0$此为上式的初始条件。
 $$
 {\Huge sin(\alpha-\varphi)e^{-\frac{\theta}{tan\varphi}} = sin(\theta+\alpha-\varphi) }
 $$
