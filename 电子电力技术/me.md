@@ -495,5 +495,16 @@ $$
 I_o = \frac{U_o}{R}
 $$
 $$
-I_{VT} = \sqrt{\frac{1}{2\pi}\int_\alpha^\pi(\frac{\sqrt2U_1\sin\omega t}{R})^2d(\omega t)} =
+I_{VT} = \sqrt{\frac{1}{2\pi}\int_\alpha^\pi(\frac{\sqrt2U_1\sin\omega t}{R})^2d(\omega t)} =\frac{U_1}{R}\sqrt{\frac{1}{2}(1-\frac{\alpha}{\pi}+\frac{\sin2\alpha}{2\pi})}
+$$
+$$
+\lambda = \frac{P}{S}=\frac{U_oI_o}{U_1I_o}=\frac{U_o}{U_1}=\sqrt{\frac{1}{2\pi}\sin2\alpha+\frac{\pi-\alpha}{\pi}}
+$$
+α的移相范围为0°≤α≤$\pi$ 当α等于0°时，输出电压为最大值。
+### 阻感负载
+负载的阻抗角为$\varphi = \arctan(\omega L/R)$ 
+移相范围为$\varphi \leqq \alpha \leqq \pi$
+$\theta$为晶闸管导通角。
+$$
+\sin(\alpha)
 $$
