@@ -506,5 +506,19 @@ $$
 移相范围为$\varphi \leqq \alpha \leqq \pi$
 $\theta$为晶闸管导通角。
 $$
-\sin(\alpha)
+\sin(\alpha+\theta-\varphi) = \sin(\alpha-\varphi)e^\frac{-\theta}{\tan\varphi}
+$$
+在触发角为α时，负载电压有效值$U_o$、负载电流有效值$I_o$、晶闸管电流有效值$I_{VT}$分别为
+$$
+U_o=U_1\sqrt{\frac{\theta}{\pi}+\frac{1}{2\pi}[\sin2\alpha-\sin{2\alpha+2\theta}]}
+$$
+$$
+I_{VT} = \frac{U_1}{\sqrt{2\pi}Z}\sqrt{\theta-\frac{\sin\theta\cos(2\alpha+\varphi+\theta)}{\cos\varphi}}
+$$
+$$
+I_o = \sqrt2I_{VT}
+$$
+晶闸管电流$I_{VT}$的标幺值为
+$$
+I_{VTN} = I_{VT}\frac{Z}{\sqrt2U_1}
 $$
