@@ -25,14 +25,12 @@
             "id": "6a22aad2ffd1f25b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "电子综合作业/555定时器芯片.md",
-                "mode": "source",
-                "source": false
+                "file": "电子综合作业/attachments/Pasted image 20241010180742.png"
               },
-              "icon": "lucide-file",
-              "title": "555定时器芯片"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241010180742"
             }
           }
         ],
@@ -201,8 +199,9 @@
   },
   "active": "6a22aad2ffd1f25b",
   "lastOpenFiles": [
-    "电子综合作业/74LS00（二四与非门）.md",
+    "电子综合作业/attachments/Pasted image 20241010175252.png",
     "电子综合作业/555定时器芯片.md",
+    "电子综合作业/74LS00（二四与非门）.md",
     "电子综合作业/proteus常用元件中英对照表.md",
     "电子综合作业/LM339（电压比较器）.md",
     "电子综合作业/74LS08（二四与门）.md",
@@ -228,7 +227,6 @@
     "电子综合作业/CD4072（四二或门）.md",
     "电子综合作业/CD4012（四二与非门）.md",
     "电子综合作业/CD4082（四二与门）.md",
-    "电子综合作业/LOGO.md",
     "电子综合作业/attachments/Pasted image 20241031233443.png",
     "电子综合作业/attachments/Pasted image 20241031233424.png",
     "电子综合作业/attachments/Pasted image 20241031231225.png",
