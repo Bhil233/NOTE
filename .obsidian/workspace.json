@@ -25,12 +25,14 @@
             "id": "6a22aad2ffd1f25b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "电子综合作业/attachments/Pasted image 20241010180742.png"
+                "file": "电子电力技术/me.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241010180742"
+              "icon": "lucide-file",
+              "title": "me"
             }
           }
         ],
@@ -199,6 +201,8 @@
   },
   "active": "6a22aad2ffd1f25b",
   "lastOpenFiles": [
+    "电子综合作业/CD4072（四二或门）.md",
+    "电子综合作业/attachments/Pasted image 20241010180742.png",
     "电子综合作业/attachments/Pasted image 20241010175252.png",
     "电子综合作业/555定时器芯片.md",
     "电子综合作业/74LS00（二四与非门）.md",
@@ -224,7 +228,6 @@
     "电子综合作业/问题汇总.md",
     "电子综合作业/逻辑芯片.md",
     "电子综合作业/物料表.md",
-    "电子综合作业/CD4072（四二或门）.md",
     "电子综合作业/CD4012（四二与非门）.md",
     "电子综合作业/CD4082（四二与门）.md",
     "电子综合作业/attachments/Pasted image 20241031233443.png",
@@ -240,8 +243,6 @@
     "电子综合作业.rar",
     "电子综合作业/表图.canvas",
     "智能救援比赛",
-    "电子综合作业/attachments/Pasted image 20241012235130.png",
-    "电子综合作业/attachments/Pasted image 20241012234941.png",
     "电子综合作业/attachments",
     "电子综合作业",
     "学校大作业/attachments",
