@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32项目/VFD屏幕驱动/文件.md",
+                "file": "STM32项目/中断.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件"
+              "title": "中断"
             }
           }
         ]
@@ -186,11 +186,14 @@
   },
   "active": "6a22aad2ffd1f25b",
   "lastOpenFiles": [
+    "STM32项目/attachments/Pasted image 20241226140153.png",
+    "STM32项目/attachments",
+    "STM32项目/VFD屏幕驱动/文件.md",
+    "STM32项目/中断.md",
     "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103817.png",
     "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103736.png",
     "STM32项目/VFD屏幕驱动/attachments",
     "智能救援比赛/树莓派使用.md",
-    "STM32项目/VFD屏幕驱动/文件.md",
     "STM32项目/VFD屏幕驱动",
     "STM32项目",
     "VFD屏幕/未命名.md",
@@ -211,7 +214,6 @@
     "未命名/attachments/Pasted image 20241221005143.png",
     "未命名/attachments/Pasted image 20241221005055.png",
     "未命名/attachments/Pasted image 20241221005046.png",
-    "未命名/attachments/Pasted image 20241221005022.png",
     "未命名/attachments",
     "通信原理/卷子 (2024秋).md",
     "通信原理",
@@ -229,12 +231,10 @@
     "电子综合作业/74系列芯片简介.md",
     "电子综合作业/改进记录.md",
     "电子综合作业/焊接操作与注意事项.md",
-    "电子综合作业/74LS161（计数芯片）.md",
     "未命名.canvas",
     "智能救援比赛/未命名.canvas",
     "电子综合作业.rar",
     "电子综合作业/表图.canvas",
-    "智能救援比赛",
     "未命名 1.canvas"
   ]
 }
