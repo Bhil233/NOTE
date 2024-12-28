@@ -11,17 +11,14 @@
             "id": "6a22aad2ffd1f25b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 150.30942742673497,
-                  "y": -25.403878495107776,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "STM32项目/VFD屏幕驱动/文件.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "文件"
             }
           }
         ]
@@ -189,8 +186,8 @@
   },
   "active": "6a22aad2ffd1f25b",
   "lastOpenFiles": [
+    "STM32项目/VFD屏幕驱动/菜单.canvas",
     "STM32项目/VFD屏幕驱动/菜单界面.md",
-    "未命名.canvas",
     "STM32项目/VFD屏幕驱动/文件.md",
     "STM32项目/中断.md",
     "STM32项目/attachments/Pasted image 20241226140153.png",
