@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32项目/VFD屏幕驱动/文件.md",
+                "file": "通信原理/卷子 (2024秋).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件"
+              "title": "卷子 (2024秋)"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "6a22aad2ffd1f25b",
   "lastOpenFiles": [
-    "STM32项目/VFD屏幕驱动/菜单.canvas",
     "STM32项目/VFD屏幕驱动/文件.md",
+    "STM32项目/VFD屏幕驱动/菜单.canvas",
     "STM32项目/VFD屏幕驱动/菜单界面.md",
     "STM32项目/中断.md",
     "STM32项目/attachments/Pasted image 20241226140153.png",
