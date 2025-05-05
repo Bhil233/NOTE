@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子电力技术/me.md",
-                "mode": "source",
-                "source": false
+                "file": "达辛德/达辛德.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "me"
+              "title": "达辛德"
             }
           }
         ]
@@ -186,6 +186,9 @@
   },
   "active": "6a22aad2ffd1f25b",
   "lastOpenFiles": [
+    "电子电力技术/me.md",
+    "达辛德/达辛德.md",
+    "达辛德",
     "电子电力技术/复习大纲.md",
     "电子电力技术/老师整理的复习内容.md",
     "智能救援比赛/树莓派使用.md",
@@ -205,7 +208,6 @@
     "ESP32-IDF/使用.md",
     "VFD屏幕",
     "2024-12-23.md",
-    "电子电力技术/me.md",
     "艺术鉴赏论文.md",
     "ESP32-IDF",
     "未命名/盒子.md",
@@ -232,7 +234,6 @@
     "电子综合作业/74系列芯片简介.md",
     "电子综合作业/改进记录.md",
     "智能救援比赛/未命名.canvas",
-    "电子综合作业.rar",
     "电子综合作业/表图.canvas",
     "未命名 1.canvas"
   ]
