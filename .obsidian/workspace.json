@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "达辛德"
             }
+          },
+          {
+            "id": "47ab1ed471ff8cac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -184,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a22aad2ffd1f25b",
+  "active": "47ab1ed471ff8cac",
   "lastOpenFiles": [
     "电子电力技术/me.md",
     "达辛德/达辛德.md",
