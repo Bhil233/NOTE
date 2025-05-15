@@ -25,12 +25,14 @@
             "id": "47ab1ed471ff8cac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "智能救援比赛/树莓派使用.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "树莓派使用"
             }
           }
         ],
