@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电力电子实验/个人总结.md",
+                "file": "电力电子实验/课后习题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "个人总结"
+              "title": "课后习题"
             }
           }
         ],
@@ -202,8 +202,8 @@
   },
   "active": "47ab1ed471ff8cac",
   "lastOpenFiles": [
-    "电力电子实验/课后习题.md",
     "电力电子实验/个人总结.md",
+    "电力电子实验/课后习题.md",
     "智能救援比赛/树莓派使用.md",
     "电力电子实验",
     "电子电力技术/me.md",
