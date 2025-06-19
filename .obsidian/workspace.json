@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件资源/git.md",
+                "file": "继电保护/复习大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "复习大纲"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 200
   },
   "right": {
     "id": "af552dc62d1fd753",
@@ -202,6 +202,9 @@
   },
   "active": "47ab1ed471ff8cac",
   "lastOpenFiles": [
+    "软件资源/git.md",
+    "继电保护/复习大纲.md",
+    "继电保护",
     "软件资源/游戏.md",
     "软件资源/小组件.md",
     "软件资源/软件资源库.md",
@@ -211,7 +214,6 @@
     "达辛德/达辛德.md",
     "电力电子实验/课后习题.md",
     "电力电子实验/个人总结.md",
-    "软件资源/git.md",
     "电子电力技术/复习大纲.md",
     "电子电力技术/老师整理的复习内容.md",
     "电子综合作业/物料表.md",
@@ -230,7 +232,6 @@
     "电力电子实验/attachments",
     "智能救援比赛/树莓派使用.md",
     "电力电子实验",
-    "电子电力技术/me.md",
     "达辛德",
     "STM32项目/VFD屏幕驱动/菜单.canvas",
     "STM32项目/attachments/Pasted image 20241226140153.png",
@@ -241,7 +242,6 @@
     "STM32项目/VFD屏幕驱动",
     "STM32项目",
     "VFD屏幕",
-    "ESP32-IDF",
     "未命名/attachments/Pasted image 20241221005449.png",
     "未命名/attachments/Pasted image 20241221005350.png",
     "未命名/attachments/Pasted image 20241221005329.png",
