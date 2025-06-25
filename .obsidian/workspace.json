@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "继电保护/复习大纲.md",
-                "mode": "preview",
+                "file": "高电压技术/高电压技术.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "复习大纲"
+              "title": "高电压技术"
             }
           }
         ],
@@ -202,8 +202,10 @@
   },
   "active": "47ab1ed471ff8cac",
   "lastOpenFiles": [
-    "软件资源/git.md",
     "继电保护/复习大纲.md",
+    "高电压技术/高电压技术.md",
+    "高电压技术",
+    "软件资源/git.md",
     "继电保护",
     "软件资源/游戏.md",
     "软件资源/小组件.md",
@@ -230,7 +232,6 @@
     "电子综合作业/74HC573（待补完）.md",
     "电力电子实验/attachments/电力系统综合自动化仿真实验平台.lnk",
     "电力电子实验/attachments",
-    "智能救援比赛/树莓派使用.md",
     "电力电子实验",
     "达辛德",
     "STM32项目/VFD屏幕驱动/菜单.canvas",
@@ -241,7 +242,6 @@
     "STM32项目/VFD屏幕驱动/attachments",
     "STM32项目/VFD屏幕驱动",
     "STM32项目",
-    "VFD屏幕",
     "未命名/attachments/Pasted image 20241221005449.png",
     "未命名/attachments/Pasted image 20241221005350.png",
     "未命名/attachments/Pasted image 20241221005329.png",
