@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "sunshine"
             }
+          },
+          {
+            "id": "f816f7501073e539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "远行行星号故事集/最初的开始.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "最初的开始"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,6 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -185,8 +201,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ab1ed471ff8cac",
+  "active": "f816f7501073e539",
   "lastOpenFiles": [
+    "远行行星号故事集/attachments/Pasted image 20251110000256.png",
+    "远行行星号故事集/attachments/Pasted image 20251110000247.png",
+    "远行行星号故事集/attachments/Pasted image 20251110000158.png",
+    "远行行星号故事集/attachments/Pasted image 20251110000138.png",
+    "远行行星号故事集/attachments",
+    "远行行星号故事集/最初的开始.md",
+    "远行行星号故事集",
     "软件资源/小组件.md",
     "软件资源/软件资源库.md",
     "软件资源/其他应用软件.md",
@@ -219,11 +242,7 @@
     "学习项目/电子综合作业/proteus常用元件中英对照表.md",
     "学习项目/电子综合作业/LOGO.md",
     "学习项目/电子综合作业/LM339（电压比较器）.md",
-    "学习项目/电子综合作业/焊接操作与注意事项.md",
-    "学习项目/电子综合作业/74LS48（数码管驱动芯片）.md",
     "学习项目/电力电子实验/attachments/电力系统综合自动化仿真实验平台.lnk",
-    "学习项目/电力电子实验/attachments",
-    "学习项目/电力电子实验",
     "STM32项目/attachments/Pasted image 20241226140153.png",
     "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103817.png",
     "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103736.png",
@@ -231,9 +250,6 @@
     "未命名/attachments/Pasted image 20241221005350.png",
     "未命名/attachments/Pasted image 20241221005329.png",
     "未命名/attachments/Pasted image 20241221005250.png",
-    "未命名/attachments/Pasted image 20241221005157.png",
-    "未命名/attachments/Pasted image 20241221005143.png",
-    "未命名/attachments/Pasted image 20241221005055.png",
     "智能救援比赛/未命名.canvas",
     "电子综合作业/表图.canvas",
     "未命名 1.canvas"
