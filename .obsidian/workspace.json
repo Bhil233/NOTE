@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "使用网站"
             }
+          },
+          {
+            "id": "f08439915a55daf7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f816f7501073e539",
+  "active": "f08439915a55daf7",
   "lastOpenFiles": [
     "远行行星号故事集/最初的开始.md",
     "毕业设计/使用网站.md",
