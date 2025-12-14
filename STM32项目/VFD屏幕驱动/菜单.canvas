@@ -1,7 +1,7 @@
 {
 	"nodes":[
+		{"id":"3d02ae173ec2d01c","type":"group","x":360,"y":160,"width":240,"height":620,"label":"时分秒设置"},
 		{"id":"590fd6a7cd647e02","type":"group","x":-220,"y":640,"width":180,"height":620,"label":"年月设置"},
-		{"id":"3d02ae173ec2d01c","type":"group","x":360,"y":160,"width":160,"height":620,"label":"时分秒设置"},
 		{"id":"bb491a79214a2199","type":"group","x":-320,"y":-300,"width":460,"height":160,"label":"主要"},
 		{"id":"36f4487a51b7104e","type":"group","x":-200,"y":20,"width":120,"height":560,"label":"年月"},
 		{"id":"e35635562ccadb46","type":"text","text":"# 1\n时间线\n","x":-280,"y":-280,"width":140,"height":120},
