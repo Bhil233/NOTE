@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103817.png"
+                "file": "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103736.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20241225103817"
+              "title": "Pasted image 20241225103736"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "f08439915a55daf7",
   "lastOpenFiles": [
+    "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103817.png",
     "STM32项目/VFD屏幕驱动/文件.md",
     "[摸了两天的STM32.md",
     "STM32项目/VFD屏幕驱动/菜单.canvas",
-    "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103817.png",
     "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103736.png",
     "STM32项目/attachments/Pasted image 20241226140153.png",
     "毕业设计/初步设计大纲.md",
@@ -226,7 +226,6 @@
     "软件资源/git.md",
     "学习项目/继电保护/继电保护实验报告.md",
     "学习项目/继电保护/继电保护实验报告 - 副本.md",
-    "学习项目/高电压技术/高电压实验报告.md",
     "杂项/密码",
     "杂项",
     "学习项目",
