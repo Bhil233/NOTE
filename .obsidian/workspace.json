@@ -11,14 +11,12 @@
             "id": "f08439915a55daf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "STM32项目/VFD屏幕驱动/文件.md",
-                "mode": "source",
-                "source": false
+                "file": "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103817.png"
               },
-              "icon": "lucide-file",
-              "title": "文件"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241225103817"
             }
           }
         ]
@@ -190,8 +188,8 @@
   "lastOpenFiles": [
     "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103736.png",
     "STM32项目/VFD屏幕驱动/attachments/Pasted image 20241225103817.png",
-    "STM32项目/VFD屏幕驱动/菜单.canvas",
     "STM32项目/VFD屏幕驱动/文件.md",
+    "STM32项目/VFD屏幕驱动/菜单.canvas",
     "STM32项目/attachments/Pasted image 20241226140153.png",
     "毕业设计/初步设计大纲.md",
     "毕业设计/使用网站.md",
