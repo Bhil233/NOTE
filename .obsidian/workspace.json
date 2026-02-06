@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智能救援比赛/树莓派使用.md",
+                "file": "毕业设计/使用网站.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "树莓派使用"
+              "title": "使用网站"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "f08439915a55daf7",
   "lastOpenFiles": [
+    "智能救援比赛/树莓派使用.md",
     "毕业设计/使用网站.md",
     "毕业设计/完成进度.md",
     "毕业设计/初步设计大纲.md",
@@ -209,7 +210,6 @@
     "ESP32-IDF/使用.md",
     "杂项/学期总结报告.md",
     "杂项/密码/sunshine.md",
-    "智能救援比赛/树莓派使用.md",
     "未命名.base",
     "远行行星号故事集/最初的开始.md",
     "毕业设计",
