@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕业设计/FastAPI/笔记.md",
+                "file": "学习项目/国家电网考试/错题整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "错题整理"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "f08439915a55daf7",
   "lastOpenFiles": [
-    "学习项目/国家电网考试/错题整理.md",
     "毕业设计/FastAPI/笔记.md",
+    "学习项目/国家电网考试/错题整理.md",
     "毕业设计/FastAPI",
     "学习项目/继电保护/复习大纲.md",
     "学习项目/继电保护/继电保护实验报告.md",
