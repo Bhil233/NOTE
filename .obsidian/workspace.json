@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "学习项目/国家电网考试/错题整理.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c252f64ddeb23841",
+  "active": "f08439915a55daf7",
   "lastOpenFiles": [
     "毕业设计/FastAPI/请求时序图.md",
     "毕业设计/FastAPI/笔记.md",
